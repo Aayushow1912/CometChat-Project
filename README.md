@@ -59,13 +59,11 @@
 
 ## 📸 Screenshots
 
-### 1. Message Activity
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/902a3699-9c94-48f1-a569-903041375ec6" alt="Message Activity" width="300" style="margin-right: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/d3220b17-c57d-4ba5-abfd-b01d39bb95f2" alt="Conversational Activity" width="300"/>
+</div>
 
-<img src="https://github.com/user-attachments/assets/902a3699-9c94-48f1-a569-903041375ec6" alt="Message Activity" width="300"/>
-
-### 2. Conversational Activity
-
-<img src="https://github.com/user-attachments/assets/d3220b17-c57d-4ba5-abfd-b01d39bb95f2" alt="Conversational Activity" width="300"/>
 
 ---
 
