@@ -60,19 +60,20 @@
 ## 📸 Screenshots
 
 <div align="center">
-
-  <div style="display: inline-block; text-align: center; margin-right: 40px;">
-    <img src="https://github.com/user-attachments/assets/902a3699-9c94-48f1-a569-903041375ec6" alt="Message Activity" width="300"/>
-    <br/>
-    <strong>Message Activity</strong>
-  </div>
-
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/d3220b17-c57d-4ba5-abfd-b01d39bb95f2" alt="Conversational Activity" width="300"/>
-    <br/>
-    <strong>Conversational Activity</strong>
-  </div>
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/902a3699-9c94-48f1-a569-903041375ec6" alt="Message Activity" width="300"/>
+        <br/>
+        <strong>Message Activity</strong>
+      </td>
+      <td align="center" style="padding-left: 30px;">
+        <img src="https://github.com/user-attachments/assets/d3220b17-c57d-4ba5-abfd-b01d39bb95f2" alt="Conversational Activity" width="300"/>
+        <br/>
+        <strong>Conversational Activity</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
