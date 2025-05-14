@@ -1,4 +1,4 @@
-# 💬 Comit Chat
+# 💬 Comet Chat
 
 **Comit Chat** is a real-time chat application built with **Kotlin** for Android. Designed with a clean UI and seamless UX, Comit Chat enables users to communicate instantly through text messages. It supports user authentication, message synchronization, and a smooth, responsive design tailored for mobile devices.
 
@@ -47,7 +47,7 @@
 
 3. **Configure the build.gradle file (if applicable)**
 
-    - Add the dependencies to enable the comit chat functinalities.
+    - Add the dependencies to enable the comit chat functionalities.
     - Sync the Gradle project.
 
 4. **Run the app**
